@@ -1,0 +1,48 @@
+top 5 jogadores com o maior salario
+	1 Rafael Marquez NY	5544000.00
+	2 David Beckham LA	5500000.08
+	3 Thierry Henry NY	5000000.04
+	4 Landon Donovan LA	2050000.00
+	5 Julian de Guzman TFC	1670796.00
+
+media salarial por posição: 
+
+	F      223805.392184
+M-F    205118.687500
+M      166180.460656
+D      132188.186441
+M-D    103919.333333
+GK      85948.636364
+M/F     72000.000000
+D-M     69611.111111
+F-M     50000.013333
+MF      40000.000000
+
+media salarial por clube:
+
+club
+NY      516791.108571
+LA      384392.323200
+CHI     201508.916667
+TFC     191444.960000
+NE      111830.603200
+SEA     110389.482963
+HOU     103847.827826
+KC      103355.120000
+CLB     103170.086957
+PHI     103054.873043
+DC       97728.424615
+COL      97362.000000
+SJ       94722.416667
+RSL      93853.760000
+DAL      86814.137931
+CHV      85350.892857
+Pool     40000.000000
+
+media salarial geral:
+
+155982.83795620437
+
+media salarial(sem a contagem de estrelas de equipes):
+
+105491.72908641976

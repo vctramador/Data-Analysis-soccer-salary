@@ -1,0 +1,38 @@
+1 - top 5 maiores salários
+	1 David Beckham (LA Galaxy): 5.5000.000.08
+	2 Cuauhtemoc Blanco (Chicago Bulls): 2.492.316
+	3 Marcelo Gallardo (DC United): 1.500.000
+	4 Juan Pablo Angel (New York FC): 1.500.000
+	5 Landon Donovan (LA Galaxy): 900.000
+2 - Média salarial de clubes:
+	
+
+club
+LA      260309.809032
+CHI     156519.532857
+DC      139863.548387
+NY      106350.583333
+TFC      94194.985200
+KC       89006.884615
+SJ       88947.694444
+HOU      85237.748571
+COL      79956.695862
+DAL      78863.793103
+RSL      77538.962857
+NE       77409.092593
+CHV      71701.536562
+CLB      67360.671290
+SEA      58500.000000
+Pool     21200.000000
+
+3 - Média salarial por posição:
+
+position
+M     139764.191933
+F     123219.502791
+D      69087.578333
+GK     55478.261667
+
+4 - Média salarial geral
+
+104706.09136585364

@@ -1,0 +1,51 @@
+1 - top 5 jogadores mais bem pagos
+	1 David Beckham LA	5500000.08
+	2 Thierry Henry NY	5000000.04
+	3 Rafael Marquez NY	4600000.00
+	4 Robbie Keane LA	2917241.40
+	5 Landon Donovan LA	2300000.00
+
+2 - media salarial por posição:
+
+position
+F      205527.192479
+M-F    161130.000000
+M/F    147750.000000
+M      141482.138208
+D      118390.593143
+M-D    102100.505000
+GK      95816.703860
+D-M     76770.833333
+F-M     53875.000000
+M/D     50000.000000
+MF      42000.000000
+
+3 - média salarial dos clubes:
+LA      427674.082667
+NY      405904.485161
+TFC     175504.064516
+PHI     119622.583333
+VAN     118899.902667
+HOU     117660.618462
+CHV     115386.689655
+RSL     113308.884615
+DC      109588.395185
+KC      103651.000000
+CLB     100137.437333
+NE       99944.555556
+COL      99715.266667
+SEA      97844.870968
+DAL      95461.800000
+SJ       89679.725517
+CHI      84610.134667
+POR      79298.968276
+TOR      61798.000000
+POOL     42000.000000
+
+4 - média salarial geral:
+
+142840.14405714284
+
+5 - media salarial geral(tirando grandes astros):
+
+101753.05994219653
