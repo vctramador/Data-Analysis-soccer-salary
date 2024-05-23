@@ -1,0 +1,57 @@
+## MLS in 2007: Salaries and Statistics
+
+**1. Top 5 Highest Salaries:**
+
+| Rank | Player | Club | Annual Salary (USD) |
+|---|---|---|---|
+| 1 | David Beckham | LA Galaxy | $5,500,000.08 |
+| 2 | Cuauhtémoc Blanco | Chicago Fire | $2,492,316 |
+| 3 | Juan Pablo Ángel | New York FC | $1,500,000 |
+| 4 | Claudio Reyna | New York FC | $1,000,008 |
+| 5 | Landon Donovan | LA Galaxy | $900,000 |
+
+**2. Top 10 Average Salary by Club:**
+
+| Rank | Club | Average Annual Salary (USD) |
+|---|---|---|
+| 1 | LA Galaxy | $316,521.11 |
+| 2 | Chicago Fire | $152,155.78 |
+| 3 | New York FC | $150,370.19 |
+| 4 | FC Dallas | $90,023.86 |
+| 5 | Houston Dynamo | $87,038.78 |
+| 6 | Toronto FC | $85,557.41 |
+| 7 | Kansas City Wizards | $84,204.31 |
+| 8 | D.C. United | $77,826.48 |
+| 9 | Columbus Crew | $75,212,17 |
+| 10 | New England Revolution | $68,549.93 |
+
+**3. Average Salary by Position:**
+
+| Rank | Position | Average Annual Salary (USD) |
+|---|---|---|
+| 1 | Attacking Midfielder (AM) | $147,652.97 |
+| 2 | Midfielder (M) | $127,843.38 |
+| 3 | Midfielder/Defender (MD) | $99,233.33 |
+| 4 | Defender/Midfielder (DM) | $85,050.00 |
+| 5 | Midfielder/Forward (MF) | $71,745.30 |
+| 6 | Defender (D) | $66,842.51 |
+| 7 | Goalkeeper (GK) | $56,502.35 |
+| 8 | Attacking Midfielder/Midfielder (AM/M) | $34,925.00 |
+| 9 | Defender/Forward (DF) | $30,870.00 |
+| 10 | Defender/Attacking Midfielder (DAM) | $12,900.00 |
+
+**Notes:**
+
+* The data presented is for the 2007 Major League Soccer (MLS) season.
+* Salary figures may have changed since then.
+* Positions are abbreviated as follows:
+    * AM: Attacking Midfielder
+    * M: Midfielder
+    * MD: Midfielder/Defender
+    * DM: Defender/Midfielder
+    * MF: Midfielder/Forward
+    * D: Defender
+    * GK: Goalkeeper
+    * AM/M: Attacking Midfielder/Midfielder
+    * DF: Defender/Forward
+    * DAM: Defender/Attacking Midfielder
