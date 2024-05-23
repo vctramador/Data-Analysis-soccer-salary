@@ -124,7 +124,12 @@ Essas análises dos maiores salários, da mediana salarial por posição e da m�
 
 
 
-#### English
+
+
+## English
+
+
+
 
 ## Exploratory Analysis of the Highest Salaries in MLS (2007-2017)
 
